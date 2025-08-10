@@ -19,14 +19,15 @@ A small, educational Tkinter GUI that lets you benchmark classic sorting algorit
 
 Installation
 
-    Clone the repository:
+  Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+    git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git 
 
-    Install dependencies:
+    cd YOUR_REPO
 
-pip install -r requirements.txt
+  Install dependencies:
+
+    pip install -r requirements.txt
 
 ---
 
